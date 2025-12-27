@@ -1,0 +1,5 @@
+{
+  "name": "ХочуТо! (HochuTo)",
+  "description": "An interactive decision helper for when you want something but don't know what. Generates ideas for food, movies, activities, and chaos.",
+  "requestFramePermissions": []
+}
